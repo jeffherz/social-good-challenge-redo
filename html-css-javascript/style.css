@@ -1,0 +1,12 @@
+body {
+    background-color: lightsteelblue;
+}
+
+#questionOne {
+    display: flex;
+    justify-content: center;
+}
+
+#questionOne label {
+    margin-right: 60px;
+}
