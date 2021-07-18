@@ -7,6 +7,20 @@ body {
     justify-content: center;
 }
 
-#questionOne label {
+#collegeTwo {
+    display: flex;
+    justify-content: center;
+}
+
+#bootcampTwo {
+    display: flex;
+    justify-content: center;
+}
+
+#tradeTwo {
+    display: flex;
+    justify-content: center;
+}
+label {
     margin-right: 60px;
 }
