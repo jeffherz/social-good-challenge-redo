@@ -13,6 +13,20 @@
             "description": "Used to help students make informed decisions about college.  You can search for a school, scholarships, and other tools and resources.",
             "type": "college",
             "tag": "resources"
+        },
+        {
+            "title": "What is a Trade School?",
+            "url": "https://blog.prepscholar.com/what-is-a-trade-school",
+            "description": "Information about all different types of trade schools and how you can apply.",
+            "type": "trade",
+            "tag": "info"
+        },
+        {
+            "title": "Coding Bootcamps in 2021",
+            "url": "https://www.coursereport.com/coding-bootcamp-ultimate-guide",
+            "description": "Information about what a coding bootcamp is and information and research to make an informed decision if it the right choice for you.",
+            "type": "bootcamp",
+            "tag": "info"
         }
     ]
 }
