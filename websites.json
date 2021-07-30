@@ -6,6 +6,13 @@
             "description": "",
             "type": "",
             "tag": ""
+        },
+        {
+            "title": "College Database",
+            "url": "https://www.collegedata.com/",
+            "description": "Used to help students make informed decisions about college.  You can search for a school, scholarships, and other tools and resources.",
+            "type": "college",
+            "tag": "resources"
         }
     ]
 }
