@@ -4,6 +4,7 @@ body {
 
 #title {
     display: flex;
+    grid-area: "title";   /* need to fix grid areas */
     justify-content: center;
     margin: 50px 5% 10px;
     border: 5px solid white;
@@ -11,10 +12,17 @@ body {
 
 #description {
     display: flex;
+    grid-area: "description";
     justify-content: center;
     margin: 5px 5%;
     padding: 10px 10px;
     border: 5px solid white;
+}
+
+#welcome {
+    display: grid;
+    grid-template-columns: 40% 60%;
+    grid-template-areas: "title description";
 }
 
 #questionOne {
